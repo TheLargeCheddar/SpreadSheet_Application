@@ -1,0 +1,106 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\ExpressionTreeEngine\\ExpressionTreeEngine.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\ExpressionTreeEngine\\ExpressionTreeEngine.csproj",
+        "projectName": "ExpressionTreeEngine",
+        "projectPath": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\ExpressionTreeEngine\\ExpressionTreeEngine.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\SpreadsheetEngine\\SpreadsheetEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "projectName": "SpreadsheetEngine",
+        "projectPath": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\SpreadsheetEngine\\SpreadsheetEngine.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\SpreadsheetEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "targetAlias": "netstandard1.4",
+            "projectReferences": {
+              "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\ExpressionTreeEngine\\ExpressionTreeEngine.csproj": {
+                "projectPath": "C:\\Users\\admin\\Downloads\\skool\\321Repo\\hw\\cpts321-jack_leeper-hws-HW9\\ExpressionTreeEngine\\ExpressionTreeEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "targetAlias": "netstandard1.4",
+          "dependencies": {
+            "Microsoft.NETCore.Jit": {
+              "target": "Package",
+              "version": "[2.0.8, )"
+            },
+            "Microsoft.NETCore.Portable.Compatibility": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.118, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            },
+            "System.Text.RegularExpressions": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\bin\Debug\netstandard1.4\SpreadsheetEngine.deps.json
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\bin\Debug\netstandard1.4\SpreadsheetEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\bin\Debug\netstandard1.4\SpreadsheetEngine.pdb
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\bin\Debug\netstandard1.4\ExpressionTreeEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\bin\Debug\netstandard1.4\ExpressionTreeEngine.pdb
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.AssemblyInfo.cs
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\Spreadsh.DA4DD27C.Up2Date
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\SpreadsheetEngine\obj\Debug\netstandard1.4\SpreadsheetEngine.pdb

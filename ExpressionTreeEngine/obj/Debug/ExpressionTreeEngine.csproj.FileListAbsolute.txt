@@ -1,0 +1,6 @@
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\bin\Debug\ExpressionTreeEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\bin\Debug\ExpressionTreeEngine.pdb
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\obj\Debug\ExpressionTreeEngine.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\obj\Debug\ExpressionTreeEngine.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\obj\Debug\ExpressionTreeEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExpressionTreeEngine\obj\Debug\ExpressionTreeEngine.pdb

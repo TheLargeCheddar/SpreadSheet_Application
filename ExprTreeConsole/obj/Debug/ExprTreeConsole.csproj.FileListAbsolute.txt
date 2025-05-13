@@ -1,0 +1,10 @@
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\bin\Debug\ExprTreeConsole.exe.config
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\bin\Debug\ExprTreeConsole.exe
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\bin\Debug\ExprTreeConsole.pdb
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\bin\Debug\ExpressionTreeEngine.dll
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\bin\Debug\ExpressionTreeEngine.pdb
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\obj\Debug\ExprTreeConsole.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\obj\Debug\ExprTreeConsole.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\obj\Debug\ExprTree.643D3407.Up2Date
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\obj\Debug\ExprTreeConsole.exe
+C:\Users\admin\Downloads\skool\321Repo\hw\cpts321-jack_leeper-hws-HW9\ExprTreeConsole\obj\Debug\ExprTreeConsole.pdb
